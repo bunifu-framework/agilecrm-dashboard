@@ -1,6 +1,6 @@
 # AgileCRM Dashboard UI
 
-> Beautifully redesigned Dashboard UI for the the [AgileCRM](https://dribbble.com/shots/3019397-Agile-CRM-Home-Ver2) software product with [Bunifu UI Framework](https://devtools.bunifu.co.ke/).
+> Beautifully redesigned Dashboard UI for the [AgileCRM](https://dribbble.com/shots/3019397-Agile-CRM-Home-Ver2) software product with [Bunifu UI Framework](https://devtools.bunifu.co.ke/).
 
 ![agilecrm-dashboard-ui](https://cdn.dribbble.com/users/207046/screenshots/3019397/attachments/632061/home11.png)
 
